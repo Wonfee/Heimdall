@@ -25,3 +25,5 @@ appropriate platform specific README:
 - Windows
   Win32/README.txt
 
+- Android
+  Android/README.txt
